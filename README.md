@@ -40,7 +40,7 @@ My background in **machine learning and computer vision** strengthens my analyti
 
 ## 💼 Experience  
 
-### 🦺 HSE Safety Engineer  
+### 🦺 Data Analyst & BI Reporting Analyst 
 **SDF Oil Well Technology** *(Aug 2024 – Aug 2025)*  
 - Monitored and enforced HSE regulations  
 - Prepared safety reports and compliance documentation  
